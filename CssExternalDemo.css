@@ -1,0 +1,16 @@
+    h1{
+    color:blue;
+    background-color:coral;
+    padding: 40px;
+    font-family: 'Segoe UI',Tohoma,Geneva,Verdana,sans-serif;
+    text-align:center;
+    }
+    p{
+
+        color:black;
+        background-color:chartreuse;
+        padding:70px;
+        font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+        text-align: center;
+        
+    }
